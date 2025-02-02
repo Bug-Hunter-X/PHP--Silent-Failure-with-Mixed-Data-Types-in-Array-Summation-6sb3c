@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in PHP related to handling arrays containing mixed data types. The `calculateSum` function, while seemingly straightforward, fails silently when given an array containing non-numeric values.  The solution illustrates how to robustly handle this scenario, preventing unexpected behavior and improving code reliability.
